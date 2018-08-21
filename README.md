@@ -25,3 +25,6 @@ python lstm.py
 ```
 # Kết quả
 
+
+https://www.kaggle.com/phamquoc94/voice_zaloai
+https://challenge.zalo.ai/portal/voice/data
